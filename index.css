@@ -1,0 +1,162 @@
+* {
+    font-family: sans-serif;
+}
+.header {
+    color: white;
+    background: rgb(97, 23, 97);
+}
+.nav-link {
+    color: white !important;
+}
+
+.img-1 {
+    background-color: rgb(97, 23, 97);
+    background-image: url("./Design-O-Flex Images Round 1/Waves/wave-1.png");
+    height: 257px;
+}
+
+.img-2 {
+    background-image: url("./Design-O-Flex Images Round 1/Waves/wave-2.png");
+    background-size: 100% 500px;
+    background-repeat: repeat;
+    height: 500px;
+}
+
+.img-3 {
+    background-image: url("./Design-O-Flex Images Round 1/Waves/wave-4.png");
+    background-size: 100% 300px;
+    background-repeat: repeat;
+    height: 300px;
+}
+
+.bg-gradient-purple {
+    background-color: #663dff;
+    background-image: linear-gradient(
+        319deg,
+        #663dff 0%,
+        #aa00ff 37%,
+        #cc4499 100%
+    );
+}
+
+.our-events {
+    margin-top: 10%;
+}
+
+.card {
+    background-color: rgb(97, 23, 97) !important;
+    height: 400px;
+}
+.btn-white {
+    background-color: white !important;
+    color: black !important;
+}
+.card-title {
+    padding: 50px 5px !important;
+}
+
+.footer {
+    background-image: url("./Design-O-Flex Images Round 1/Waves/wave-3.png");
+    background-repeat: no-repeat;
+    background-size: 100% 300px;
+    height: 200px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+
+    text-decoration: none;
+    border-radius: 50%;
+}
+.mail {
+    color: white;
+    float: right;
+}
+
+.home {
+    color: white;
+    background: rgb(97, 23, 97);
+    text-align: center;
+}
+#get-started {
+    color: white;
+    background-color: rgb(47, 194, 243);
+    border-radius: 12px;
+    width: 100px;
+}
+.home-text {
+    padding-right: 1000px;
+    padding-top: 200px;
+}
+
+.about-page {
+    background-color: rgb(48, 48, 95);
+}
+.about-content {
+    align-items: right;
+    display: inline-flex;
+    text-align: right;
+
+    color: white;
+    padding-right: 0px;
+}
+.about-space {
+    padding: 20px;
+    align-items: left;
+    text-align: right;
+
+    color: white;
+}
+#zbc-logo {
+    padding: 20px;
+}
+#about-zbc1 {
+    color: white;
+    word-wrap: break-word;
+}
+#about-zbc2 {
+    color: white;
+    word-wrap: break-word;
+    text-align: right;
+}
+
+.our-work {
+    text-align: center;
+}
+.about-content {
+    width: 100%;
+}
+.our-work-heading {
+    text-align: center;
+}
+.moon-launch {
+    color: rgb(16, 16, 115);
+    font-size: large;
+}
+.our-orbiters {
+    color: rgb(16, 16, 115);
+}
+.otherprojects {
+    display: inline;
+}
+
+.event-item {
+    background: rgb(97, 23, 97);
+    text-align: center;
+    padding: 50px 10px 100px 10px;
+}
+#view-more {
+    margin-top: 25px;
+    padding: 5px;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    background-color: white;
+    border-radius: 12px;
+    width: 180px;
+}
+
+.contact-us-heading {
+    color: rgb(97, 23, 97);
+    padding-left: 20px;
+}
