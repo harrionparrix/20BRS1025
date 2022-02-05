@@ -69,7 +69,7 @@
     text-decoration: none;
     border-radius: 50%;
 }
-.mail {
+#mail {
     color: white;
     float: right;
 }
